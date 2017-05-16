@@ -1,0 +1,6 @@
+[submodule "1180/project1_java"]
+	path = 1180/project1_java
+	url = https://github.com/S-NA/project1_java
+[submodule "1180/project2_java"]
+	path = 1180/project2_java
+	url = https://github.com/S-NA/project2_java
