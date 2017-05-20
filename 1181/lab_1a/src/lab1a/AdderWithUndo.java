@@ -1,4 +1,4 @@
-package lab_1a;
+package lab1a;
 
 public class AdderWithUndo extends Adder {
 	private int lastValueAdded;

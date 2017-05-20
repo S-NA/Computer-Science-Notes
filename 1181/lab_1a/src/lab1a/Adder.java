@@ -1,4 +1,4 @@
-package lab_1a;
+package lab1a;
 
 public class Adder {
 	private int total;
